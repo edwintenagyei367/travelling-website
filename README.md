@@ -17,7 +17,6 @@ A modern, responsive travel landing page built with **React** and **Tailwind CSS
 ## Tech Stack
 
 - [React](https://react.dev/) — UI components
-- [Vite](https://vite.dev/) — fast dev server & build tool
 - [Tailwind CSS](https://tailwindcss.com/) — utility-first styling
 - [Remix Icon](https://remixicon.com/) — icon set
 
