@@ -1,16 +1,39 @@
-# React + Vite
+# GoSummit — Travel Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![GoSummit Preview](template/template.png)
 
-Currently, two official plugins are available:
+A modern, responsive travel landing page built with **React** and **Tailwind CSS**, inspired by the (https://dribbble.com/shots/16492435-Travel-website).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Full-screen hero** with a mountain backdrop and masked typography effect
+- **Sticky transparent header** with smooth-scroll navigation and an expanding search bar
+- **Tours, Pricing, Calendar, Testimonials, Gallery, About & Contact** sections
+- Fully **responsive** — mobile hamburger menu included
+- Clean, minimal aesthetic with a warm yellow accent color
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://react.dev/) — UI components
+- [Vite](https://vite.dev/) — fast dev server & build tool
+- [Tailwind CSS](https://tailwindcss.com/) — utility-first styling
+- [Remix Icon](https://remixicon.com/) — icon set
+
+## Getting Started
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## Design Credit
+
+UI design by[Travel website shot](https://dribbble.com/shots/16492435-Travel-website).
