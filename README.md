@@ -36,4 +36,4 @@ npm run build
 
 ## Design Credit
 
-UI design by[Travel website shot](https://dribbble.com/shots/16492435-Travel-website).
+UI design by (https://dribbble.com/shots/16492435-Travel-website).
