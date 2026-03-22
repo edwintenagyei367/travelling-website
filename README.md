@@ -1,7 +1,4 @@
 # GoSummit — Travel Landing Page
-
-![GoSummit Preview](template/template.png)
-
 A modern, responsive travel landing page built with **React** and **Tailwind CSS**, inspired by the (https://dribbble.com/shots/16492435-Travel-website).
 
 ---
